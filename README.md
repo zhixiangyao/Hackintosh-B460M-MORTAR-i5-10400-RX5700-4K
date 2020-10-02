@@ -116,13 +116,14 @@ macOS version: 10.15.7
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122313.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122352.png'/>
+<img width="800" src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122352.png'/>
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122421.png'/>
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122746.png'/>
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-info.png'/>
+
 ### 双系统设置
 
 - 双系统需 2 块硬盘
