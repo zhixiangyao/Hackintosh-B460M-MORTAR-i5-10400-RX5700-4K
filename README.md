@@ -116,7 +116,7 @@ macOS version: 10.15.7
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122313.png'/>
 
-<img width="800" src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122352.png'/>
+<img width="800px" src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122352.png?raw=true'/>
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122421.png'/>
 
