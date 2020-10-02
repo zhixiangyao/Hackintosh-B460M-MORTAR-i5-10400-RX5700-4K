@@ -110,17 +110,17 @@ macOS version: 10.15.7
 
 ### 系统信息
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122140.png'/>
+<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122148.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122234.png'/>
+<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122238.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122313.png'/>
+<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122318.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122352.png'/>
+<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122358.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122421.png'/>
+<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122428.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122746.png'/>
+<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122748.png'/>
 
 <img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-info.png'/>
 
