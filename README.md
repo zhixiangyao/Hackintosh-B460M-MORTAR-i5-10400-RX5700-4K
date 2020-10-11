@@ -1,14 +1,21 @@
-## 微星 B460M 迫击炮 i5-10400 ➕ iGPU-UHD630 ➕ RX5700 ➕ 4K
+## MSI B460M Mortar i5-10400 ➕ iGPU-UHD630 ➕ XFX RX5700 ➕ LG UL850 4K Resolution
+
+### 下载 Download
+
+摇号查看系统信息工具 Hackintool：[Hackintool ](https://www.insanelymac.com/forum/topic/335018-hackintool-v3xx/)
+
+编辑器 Editor：[Visual Studio Code ](https://code.visualstudio.com/)
 
 ### 硬件配置
 
-| 配置 | 型号                         |
-| ---- | ---------------------------- |
-| CPU  | Intel Core I5-10400          |
-| 主板 | 微星 B460M 迫击炮            |
-| 内存 | 光威 3000Mhz C16 16G\*2      |
-| 显卡 | 核显 UHD630 和 XFX RX5700 8G |
-| 网卡 | PCIE - BCM94360CS2 AC        |
+| 配置              | 型号                                                         |
+| ----------------- | ------------------------------------------------------------ |
+| 处理器 CPU        | Intel Core I5-10400                                          |
+| 主板 Motherboard  | 微星 MSi B460M 迫击炮 Mortar                                 |
+| 内存 Memory       | 光威 3000Mhz C16 16G\*2                                      |
+| 显卡 Video Card   | 核显 UHD630 和 XFX Radeon RX5700 8G                          |
+| 网卡 Network Card | Broadcom BCM94360 CS2 AC                                     |
+| 显示器 Monitor    | LG 27UL850-W 27" UHD IPS DisplayHDR 400 and USB Type-C (65W) |
 
 ### EFI
 
@@ -18,7 +25,7 @@ macOS version: 10.15.7
 
 机型: iMac19,1
 
-### 注意
+### 注意 Notes
 
 - 建议使用【黑果小兵】macOS Catalina 10.15.6 安装镜像进行安装
 
@@ -94,11 +101,11 @@ macOS version: 10.15.7
 
 ### 功能测试
 
-- ☑️ 随航
-- ☑️ 接力
+- ☑️ 随航 Sidecar
+- ☑️ 接力 Handoff
 - ☑️ iMessage/FaceTime
-- ☑️ 隔空投送
-- ☑️ 睡眠/唤醒
+- ☑️ 隔空投送 AirDrop
+- ☑️ 睡眠/唤醒 Sleep
 - ☑️ 所有 USB 端口
 - ☑️ 核显硬件加速
 - ☑️ 板载声卡
@@ -134,12 +141,12 @@ macOS version: 10.15.7
 
   - 在 Windows 下运行
 
-  - Windows+R 管理员权限运行 cmd，输入下面命令改写注册表
+  - Windows+R Admin 管理员权限运行 cmd，输入下面命令改写注册表
 
 ```cmd
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 ```
 
-- OpenCore 默认启动项
+- OpenCore Default launch item 默认启动项
 
   - 在 OpenCore 启动项选择页面，选择你想选择的默认启动系统，按 Ctrl + Enter
