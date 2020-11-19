@@ -1,5 +1,9 @@
 ## MSI B460M Mortar i5-10400 ➕ iGPU-UHD630 ➕ XFX RX5700 ➕ LG UL850 4K Resolution
 
+本人 intel NUC8i5BEH upgrade 到 macOS 11.0.1 big sur 出现发热、卡顿问题。
+
+在这里，我想说 x86-64 用户最好别升级 macOS11 ，未来 Apple 不会对 X86-64 的设备太大精力维护的。
+
 ### Download
 
 摇号查看系统信息工具 Hackintool：[Hackintool ](https://www.insanelymac.com/forum/topic/335018-hackintool-v3xx/)
