@@ -39,6 +39,22 @@
 | 机型          | iMac19,1 |
 
 ### 注意
+- 设置好BIOS，这个网上很多，可以看看
+  - Settings\Advanced\Integrated Graphics Configuration
+
+  	- IGA 					[PEG]
+  	- IGSM					[64MB]
+  	- IM 						[Enabled]
+
+  - Settings\Advanced\USB  Configuration
+
+	  - XHCI Hand-off			 [Enabled]
+
+  - Overclocking\CPU Features
+
+	  - Intel Virtualization Tech	[Enabled]
+	  - Intel VT-D Tech			[Disabled]
+	  - CFG Lock				[Disabled]
 
 - 如果你的显示器不是 4K 请修改 EFI/OC/config.plist 里的 3840×2160
 
