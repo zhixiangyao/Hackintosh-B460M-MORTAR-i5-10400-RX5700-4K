@@ -132,7 +132,7 @@
 </dict>
 ```
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-hackintool.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-hackintool.png'/>
 
 ### 双系统设置
 
@@ -156,16 +156,16 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 ### 系统信息
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122148.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-20201002-122148.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122238.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-20201002-122238.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122318.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-20201002-122318.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122358.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-20201002-122358.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122428.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-20201002-122428.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-20201002-122748.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-20201002-122748.png'/>
 
-<img src='https://cdn.jsdelivr.net/gh/xiaojun996/CDN/images/screenshot/macos-info.png'/>
+<img src='https://cdn.jsdelivr.net/gh/yao-zhixiang/CDN/images/screenshot/macos-info.png'/>
